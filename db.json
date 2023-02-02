@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Aljith KJ",
+      "age": "4",
+      "gender": "female",
+      "country": "india",
+      "profession": "Student",
+      "id": 1
+    },
+    {
+      "name": "jithu",
+      "age": "42",
+      "gender": "male",
+      "country": "USA",
+      "profession": "Student",
+      "id": 2
+    },
+    {
+      "name": "Neymar",
+      "age": "42",
+      "gender": "male",
+      "country": "Brasil",
+      "profession": "Employed",
+      "id": 3
+    },
+    {
+      "name": "Messi",
+      "age": "34",
+      "gender": "male",
+      "country": "argentina",
+      "profession": "Employed",
+      "id": 4
+    },
+    {
+      "name": "karthik",
+      "age": "10",
+      "gender": "male",
+      "country": "India",
+      "profession": "Student",
+      "id": 5
+    },
+    {
+      "name": "Messi",
+      "age": "22",
+      "gender": "female",
+      "country": "India",
+      "profession": "Student",
+      "id": 6
+    }
+  ]
+}
